@@ -2,9 +2,17 @@
 
 After procrastinating on my **Advent of ML Challenge** for quite some time, I finally decided that instead of just thinking about it, I should take the first step and start doing. I realized that action is the best way to learn and improve, and who knows where it will take me?
 
+![Banner](advent_of_ml.png)
+
+
 ## What I'm Doing
 
 I've started going through the resources on the **[d2l](https://d2l.ai/)** (Dive Into Deep Learning) website, which provides hands-on tutorials and explanations of fundamental ML concepts. To reinforce my learning, I am **coding along** with the examples and implementing classic machine learning algorithms and models from scratch.
+
+Additionally, I’ll be tackling **LeetCode-style problem sets** focused on machine learning from **[Deep-ML](https://www.deep-ml.com/)** to further hone my problem-solving skills and solidify my understanding of key concepts.
+
+I have also been learning **Deep Learning** from the **[Stats453 course by Sebastian Raschka on YouTube](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)**. This course provides deep insights into the fundamentals of deep learning and is helping me grasp the theoretical concepts as well as the practical applications.
+
 
 ## My Goals
 
@@ -25,5 +33,5 @@ Feel free to follow along with me, and maybe we can learn together!
 
 ## Connect With Me
 
-- **Twitter**: [![Twitter](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png)](https://twitter.com/sodakeyEatsMush)  
-- **Kaggle**: [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/a/a2/Kaggle_logo.svg)](https://www.kaggle.com/saad1926q)
+- **Twitter**: [Twitter](https://twitter.com/sodakeyEatsMush)  
+- **Kaggle**: [Kaggle](https://www.kaggle.com/saad1926q)
